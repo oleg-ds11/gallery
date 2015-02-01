@@ -3561,6 +3561,7 @@ tbody.collapse.in {
 }
 .btn-toolbar {
   margin-left: -5px;
+	margin-top: 10px;
 }
 .btn-toolbar .btn-group,
 .btn-toolbar .input-group {
