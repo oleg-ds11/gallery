@@ -2,7 +2,15 @@
 	margin-top: 50px;
 
 }
+a.spoiler:after {
+	content: " [-]"
 
+}
+
+
+a.spoiler.collapsed:after {
+	content: " [+]";
+}
 
 
 
